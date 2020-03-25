@@ -1,4 +1,6 @@
-打开Git Bash工具：
+open Git Bash tools:
+
+git clone
 
 git add README.md
 $ git config --global user.name "YourName"
