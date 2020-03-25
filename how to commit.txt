@@ -1,0 +1,7 @@
+
+git add README.md
+$ git config --global user.name "YourName"
+$ git config --global user.email "YourEmail@xxx.com"
+git commit -m "first commit"
+git remote add origin https://github.com/hek2017/LearnPython3.git
+git push origin master
