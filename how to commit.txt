@@ -1,3 +1,4 @@
+打开Git Bash工具：
 
 git add README.md
 $ git config --global user.name "YourName"
