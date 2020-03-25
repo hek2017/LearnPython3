@@ -1,6 +1,6 @@
 open Git Bash tools:
 
-git clone
+git clone URL
 
 git add README.md
 $ git config --global user.name "YourName"
